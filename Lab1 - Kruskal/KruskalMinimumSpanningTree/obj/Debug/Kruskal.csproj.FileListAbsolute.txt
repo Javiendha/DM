@@ -1,0 +1,11 @@
+D:\Lab1\KruskalMinimumSpanningTree\bin\Debug\KruskalMinimumSpanningTree.exe.config
+D:\Lab1\KruskalMinimumSpanningTree\bin\Debug\KruskalMinimumSpanningTree.exe
+D:\Lab1\KruskalMinimumSpanningTree\bin\Debug\KruskalMinimumSpanningTree.pdb
+D:\Lab1\KruskalMinimumSpanningTree\bin\Debug\DisjointSet.dll
+D:\Lab1\KruskalMinimumSpanningTree\bin\Debug\DisjointSet.pdb
+D:\Lab1\KruskalMinimumSpanningTree\bin\Debug\DisjointSet.dll.config
+D:\Lab1\KruskalMinimumSpanningTree\obj\Debug\Kruskal.csproj.AssemblyReference.cache
+D:\Lab1\KruskalMinimumSpanningTree\obj\Debug\Kruskal.csproj.CoreCompileInputs.cache
+D:\Lab1\KruskalMinimumSpanningTree\obj\Debug\Kruskal.csproj.CopyComplete
+D:\Lab1\KruskalMinimumSpanningTree\obj\Debug\KruskalMinimumSpanningTree.exe
+D:\Lab1\KruskalMinimumSpanningTree\obj\Debug\KruskalMinimumSpanningTree.pdb
